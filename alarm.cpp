@@ -38,6 +38,7 @@ int main(){
         }
     }
     std::cout << "Next up check hr, and min until isTime returns true. Need to use a timer!\n";
+    std::cout << "New edit from VScode!\n";
     return 0;
 }
 //FUNCTIONS
